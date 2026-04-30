@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalnagar28&label=Profile%20views&color=0e75b6&style=flat" alt="nihalnagar28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalnagar28" alt="nihalnagar28" /></a> </p>
-
 - 🔭 I’m currently working on [Power-Supply-feedback-system](https://github.com/Nihalnagar28/Power-Supply-feedback-system)
 
 - 🌱 I’m currently learning **Frameworks, Algorithms**
