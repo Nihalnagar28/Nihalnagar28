@@ -1,34 +1,128 @@
 <h1 align="center">Hi 👋, I'm Mritunjay Nagar</h1>
-<h3 align="center">Full Stack Developer (MERN Stack) | B.Tech CSE Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalnagar28&label=Profile%20views&color=0e75b6&style=flat" alt="nihalnagar28" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer (MERN Stack) | B.Tech CSE Student
+</h3>
 
-- 🔭 I’m currently working on [Power-Supply-feedback-system](https://github.com/Nihalnagar28/Power-Supply-feedback-system)
-
-- 🌱 I’m currently learning **Frameworks, Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nihalnagar28](https://github.com/Nihalnagar28)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nihalnagar/](https://www.linkedin.com/in/nihalnagar/)
-
-- 💬 Ask me about **ReactJS, NodeJS, C++**
-
-- 📫 How to reach me **mritunjaynihalnagar@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jq7ALvvwjqF313u2i8y1WU1m0DyZiPyG/view?usp=sharing](https://drive.google.com/file/d/1Jq7ALvvwjqF313u2i8y1WU1m0DyZiPyG/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nihalnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihalnagar" height="30" width="40" /></a>
-<a href="https://instagram.com/_nihalnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nihalnagar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/emcyvrkm9t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/emcyvrkm9t/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Development+Enthusiast;DSA+%2B+Web+Development;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalnagar28&show_icons=true&locale=en&layout=compact" alt="nihalnagar28" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nihalnagar28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalnagar28&show_icons=true&locale=en" alt="nihalnagar28" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalnagar28&" alt="nihalnagar28" /></p>
+# 🚀 Professional Summary
+
+- 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack** with a strong interest in scalable backend systems.
+
+- ⚡ Skilled in building responsive web applications, REST APIs, and problem-solving using **C++ & Data Structures**.
+
+- 📚 Continuously exploring modern technologies, backend architectures, and software engineering best practices.
+
+- 🎯 Focused on becoming an industry-ready **Backend Engineer / Full Stack Developer** through real-world projects and continuous learning.
+
+- 🤝 Open to collaboration on innovative web development and open-source projects.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nihalnagar" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://instagram.com/_nihalnagar" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://leetcode.com/u/emcyvrkm9t/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="45" />
+</a>
+
+<a href="https://github.com/Nihalnagar28" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,redis,php,tailwind,bootstrap,git,linux,figma,jest&perline=7" />
+
+</div>
+
+---
+
+# 📌 Featured Links
+
+<p align="center">
+
+<a href="https://github.com/Nihalnagar28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nihalnagar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1Jq7ALvvwjqF313u2i8y1WU1m0DyZiPyG/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nihalnagar28&show_icons=true&theme=github_dark&hide_border=true" /> -->
+
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=nihalnagar28&theme=github-dark-blue&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalnagar28&layout=compact&theme=github_dark&hide_border=true" /> -->
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nihalnagar28&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# ⚡ Developer Mindset
+
+```cpp
+while(!success) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+<p align="center">
+✨ “Code. Create. Innovate.” ✨
+</p>
